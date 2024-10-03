@@ -11,6 +11,7 @@ import java.util.Scanner;
 /**
  * Clase principal que gestiona la creación de un fichero binario para almacenar
  * información sobre alumnos.
+ * Hehco por Gaizka Martin
  */
 public class Main {
 	/** Archivo en el que se guardará la información. */
