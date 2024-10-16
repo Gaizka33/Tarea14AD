@@ -51,8 +51,7 @@ public class Main {
 				LocalDate fechaNacimiento = LocalDate.parse(fechaNacimientoString, formato); // Parsea la fecha
 
 				// Solicita los datos del alumno
-				System.out.println(
-						"Ahora Dame los datos del alumno (Nombre, Apellidos, Ciclo, Curso, Grupo, NIA y Genero): ");
+				System.out.println("Ahora Dame los datos del alumno (Nombre, Apellidos, Ciclo, Curso, Grupo, NIA y Genero): ");
 
 				String nombre = abielto.next(); // Nombre del alumno
 				String apellidos = abielto.next(); // Apellidos del alumno
