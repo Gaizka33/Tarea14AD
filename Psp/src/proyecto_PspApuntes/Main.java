@@ -1,4 +1,4 @@
-package proyecto_Psp;
+package proyecto_PspApuntes;
 
 import javax.tools.JavaCompiler;
 import javax.tools.ToolProvider;
